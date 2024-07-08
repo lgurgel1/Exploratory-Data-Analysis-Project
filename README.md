@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis-Project
 
+(See the project in detail in the project.ipynb file, where all the steps are there.)
+
 ## Connecting with the Data Analytics Journey
 
 This project is part of my Data Analytics learning journey, as described in my original repositorie [Data-Analytics](https://github.com/lgurgel1/Data-Analytics). This repository covers topics from basic Python to cloud computing and big data, and includes several hands-on projects to consolidate learning. Explore the repository to follow the evolution of this and other projects!
@@ -55,5 +57,3 @@ Visualization of delivery data:
 <li>Maps and charts to reveal patterns and insights.</li>
 <li>Analysis of geographic distribution and hub locations</li>
 </ul>
-
-See the project in detail in the project.ipynb file, where all the steps are there.
