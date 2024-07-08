@@ -55,3 +55,5 @@ Visualization of delivery data:
 <li>Maps and charts to reveal patterns and insights.</li>
 <li>Analysis of geographic distribution and hub locations</li>
 </ul>
+
+See the project in detail in the project.ipynb file, where all the steps are there.
